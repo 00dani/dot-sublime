@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ActualVim",
+		"Better CoffeeScript",
+		"CodeKit Commands",
+		"DashDoc",
+		"EditorConfig",
+		"Git",
+		"GitGutter",
+		"JSON Key-Value",
+		"LESS",
+		"Origami",
+		"Package Control",
+		"PHP-Twig",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-contrib-slim-lint",
+		"SublimeLinter-eslint",
+		"tern_for_sublime",
+		"TypeScript"
+	]
+}
