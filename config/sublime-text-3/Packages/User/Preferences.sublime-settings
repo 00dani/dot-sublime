@@ -7,8 +7,8 @@
 	"default_line_ending": "unix",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "FantasqueSansMono Nerd Font",
-	"font_size": 14,
+	"font_face": "JetBrains Mono",
+	"font_size": 12,
 	"ignored_packages": [
 		"Vintage"
 	],
