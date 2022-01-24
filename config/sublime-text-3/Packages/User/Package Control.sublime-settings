@@ -25,6 +25,7 @@
 		"SublimeLinter-contrib-slim-lint",
 		"SublimeLinter-eslint",
 		"tern_for_sublime",
-		"TypeScript"
-	]
+		"TypeScript",
+		"WordCount",
+	],
 }
