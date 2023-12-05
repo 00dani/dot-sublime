@@ -19,4 +19,6 @@
 	"spacegray_fileicons": true,
 	"tab_size": 2,
 	"vintageous_i_escape_jj": true,
+	"index_files": true,
+	"neovintageous_build_version": 13200,
 }
