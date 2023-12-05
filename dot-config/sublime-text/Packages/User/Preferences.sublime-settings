@@ -3,7 +3,8 @@
 		{"characters": "<",	"selector": "text.html",},
 		{"characters": ".",	"selector": "source.js",}
 	],
-	"color_scheme": "Monokai.sublime-color-scheme",
+	"color_scheme": "Catppuccin Mocha.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
 	"default_line_ending": "unix",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -17,7 +18,5 @@
 	"show_line_endings": true,
 	"spacegray_fileicons": true,
 	"tab_size": 2,
-	"theme": "Adaptive.sublime-theme",
-	"index_files": false,
 	"vintageous_i_escape_jj": true,
 }
