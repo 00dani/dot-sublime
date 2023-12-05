@@ -1,0 +1,2 @@
+" inoremap jj <Esc> is a built-in feature in Neovintageous so we don't need to do it here.
+nnoremap K :DashDoc<CR>
