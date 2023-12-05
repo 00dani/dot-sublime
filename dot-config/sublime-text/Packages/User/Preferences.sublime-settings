@@ -3,12 +3,13 @@
 		{"characters": "<",	"selector": "text.html",},
 		{"characters": ".",	"selector": "source.js",}
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Monokai.sublime-color-scheme",
 	"default_line_ending": "unix",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "JetBrains Mono",
-	"font_size": 13,
+	"trim_trailing_white_space_on_save": true,
+	"font_face": "JuliaMono",
+	"font_size": 14,
 	"ignored_packages": [
 		"Vintage",
 	],
@@ -17,4 +18,6 @@
 	"spacegray_fileicons": true,
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
+	"index_files": false,
+	"vintageous_i_escape_jj": true,
 }

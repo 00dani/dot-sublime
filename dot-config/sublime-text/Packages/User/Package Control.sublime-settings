@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"ActualVim",
 		"Better CoffeeScript",
 		"CodeKit Commands",
 		"DashDoc",
@@ -13,10 +12,10 @@
 		"Git",
 		"GitGutter",
 		"JSON Key-Value",
-		"LESS",
+		"Less",
+		"NeoVintageous",
 		"Origami",
 		"Package Control",
-		"PHP-Twig",
 		"Ruby Slim",
 		"Sass",
 		"SideBarEnhancements",
@@ -24,8 +23,6 @@
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-slim-lint",
 		"SublimeLinter-eslint",
-		"tern_for_sublime",
-		"TypeScript",
-		"WordCount",
+		"WordingStatus",
 	],
 }
